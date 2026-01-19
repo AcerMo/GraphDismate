@@ -1,0 +1,64 @@
+budget:
+  desc: ''
+  sort: 2
+  value: 20.0
+cost_alpha:
+  desc: ''
+  sort: 4
+  value: 1.0
+cost_beta:
+  desc: ''
+  sort: 5
+  value: 1.0
+cost_noise:
+  desc: ''
+  sort: 6
+  value: 0.1
+entropy_coef:
+  desc: ''
+  sort: 11
+  value: 0.01
+eps_clip:
+  desc: ''
+  sort: 9
+  value: 0.2
+gamma:
+  desc: ''
+  sort: 8
+  value: 0.99
+graph_type:
+  desc: ''
+  sort: 1
+  value: ba
+hidden_dim:
+  desc: ''
+  sort: 13
+  value: 64
+k_epochs:
+  desc: ''
+  sort: 10
+  value: 4
+lambda:
+  desc: ''
+  sort: 3
+  value: 0.1
+lr:
+  desc: ''
+  sort: 7
+  value: 0.0003
+max_cost:
+  desc: ''
+  sort: 15
+  value: 10.0
+max_degree:
+  desc: ''
+  sort: 14
+  value: 100.0
+n_nodes:
+  desc: ''
+  sort: 0
+  value: 200
+update_timestep:
+  desc: ''
+  sort: 12
+  value: 2000
